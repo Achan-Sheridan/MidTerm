@@ -61,6 +61,6 @@ public class UserProfile
         this.genre = genre;
     }
     
-    
+    //fetch+merge
     
 }//end class
